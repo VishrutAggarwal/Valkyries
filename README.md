@@ -165,27 +165,27 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <br>
 
-Vishrut Aggarwal - [@AggarwalVishrut](https://twitter.com/AggarwalVishrut) - [Vishrut Aggarwal](https://linkedin.com/in/vishrut-aggarwal)
+Vishrut Aggarwal - [Vishrut Aggarwal](https://linkedin.com/in/vishrut-aggarwal)
 
 Profile Link: [https://github.com/VishrutAggarwal](https://github.com/VishrutAggarwal)
 
 <br>
 
-Akanksha Kushwaha - [@akanksha___13](https://twitter.com/akanksha___13) - [Akanksha Kushwaha](https://linkedin.com/in/aku1310)
+Akanksha Kushwaha - [Akanksha Kushwaha](https://linkedin.com/in/aku1310)
 
 Profile Link: [https://github.com/aku1310](https://github.com/aku1310)
 
 <br>
 
-Dhanya Hegde - [@](https://twitter.com) - [Dhanya Hegde](https://www.linkedin.com/in/)
+Dhanya Hegde - [Dhanya Hegde](https://www.linkedin.com/in/dhanyahegde01)
 
-Profile Link: [https://github.com/](https://github.com/)
+Profile Link: [https://github.com/](https://github.com/DhanyaHegde01)
 
 <br>
 
-Amriti Gupta - [@](https://twitter.com/) - [Amriti Gupta](https://www.linkedin.com/in/)
+Amriti Gupta - [Amriti Gupta](https://www.linkedin.com/in/amriti-gupta-a50036229)
 
-Profile Link: [https://github.com/](https://github.com/)
+Profile Link: [https://github.com/](https://github.com/amritigupta)
 
 <br>
 <br>
