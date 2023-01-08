@@ -100,6 +100,47 @@ app.post("/login", (req, res) => {
     );
 });
 
+app.post("/postforum", (req, res) => {
+    const thought = req.body.thought;
+    const tag = req.body.tag;
+    const id = req.body.id;
+
+    db.query(
+        "INSERT INTO forum (thought, tag) VALUES (?,?)",
+        [thought, tag],
+        (err, result) => {
+            if (err) {
+                console.log(err);
+            } else {
+                res.send("Values Inserted");
+            }
+        }
+    );
+});
+
+app.get("/getforum", (req, res) => {
+    db.query("SELECT * FROM forum", (err, result) => {
+        if (err) {
+            console.log(err);
+        } else {
+            res.send(result);
+        }
+    });
+});
+
+// app.get("/getforum/cats", (req, res) => {
+//     const tag = req.body.tag;
+//     db.query(
+//         "SELECT * FROM forum WHERE tag = ?;",
+//         tag,
+//         (err, result) => {
+//             if (err) {
+//                 console.log(err);
+//             } else {
+//                 res.send(result);
+//             }
+//         });
+// });
 
 app.listen(3001, () => {
     console.log("running server");
