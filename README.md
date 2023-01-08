@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="#" alt="Logo" width="80" height="80">
+    <img src="https://media.discordapp.net/attachments/794519160746541108/1061560277168029756/valky.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Valkyries</h3>
@@ -57,11 +57,24 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project And Our Motivation
-<!-- 
+
 ![Screenshot](./screenshots/1.png)
-![Screenshot](./screenshots/2.png)
-![Screenshot](./screenshots/3.png) 
--->
+![Screenshot](./screenshots/3.png)
+![Screenshot](./screenshots/4.png)
+![Screenshot](./screenshots/5.png)
+![Screenshot](./screenshots/6.png) 
+![Screenshot](./screenshots/7.png) 
+
+
+A platform that helps women report crimes and offers guidance to women about tech communities and resources. 
+
+The motivation for creating a platform that helps women report crimes and offers guidance to women about tech communities and resources is to address the issue of women's safety in their communities. 
+
+A platform that allows women to anonymously report crimes and connect with other women and resources in their area can help create a sense of safety and community, and empower women to take control of their own safety and well-being. 
+
+Additionally, by offering guidance and resources related to tech communities, the platform can help women explore and access opportunities in the tech industry and further their professional development.
+
+Overall, the motivation for creating this platform is to support and empower women in their communities and help create a safer and more inclusive environment for all.
 
 <br>
 
