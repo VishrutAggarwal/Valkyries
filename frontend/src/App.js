@@ -8,6 +8,7 @@ import Register from './components/Register';
 import Resources from './components/Resources';
 import Forum from './components/Forum';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Dashboard from './components/Dashboard';
 
 function App() {
   return (
@@ -21,6 +22,10 @@ function App() {
           <Route path = '/resources' element={<Resources/>}></Route>
         </Routes>
         </Router>
+      <Header/>
+      <Landing/>
+      <Footer/>
+      {/* <Dashboard/> */}
     </div>
   );
 }

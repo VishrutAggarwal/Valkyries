@@ -1,8 +1,9 @@
 import React from 'react'
+import '../styles/Landing.css'
 
 function Landing() {
   return (
-    <div>
+    <div id='landing-page'>
         <div id='about-section'>
 
         </div>
