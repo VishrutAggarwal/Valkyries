@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  border: 2px solid black;
+  /* border: 2px solid black; */
 }
 
 /* GLOBALS */
@@ -13,7 +13,8 @@
 }
 
 .App {
-  background-color: #ffa9b5;
+  /* background-color: #ffa9b5; */
+  background-color: #ffbddf;
 }
 
 .full-page {
