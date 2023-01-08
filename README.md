@@ -192,13 +192,7 @@ Profile Link: [https://github.com/aku1310](https://github.com/aku1310)
 
 Dhanya Hegde - [Dhanya Hegde](https://www.linkedin.com/in/dhanyahegde01)
 
-Profile Link: [https://github.com/](https://github.com/DhanyaHegde01)
-
-<br>
-
-Amriti Gupta - [Amriti Gupta](https://www.linkedin.com/in/amriti-gupta-a50036229)
-
-Profile Link: [https://github.com/](https://github.com/amritigupta)
+Profile Link: [https://github.com/DhanyaHegde01](https://github.com/DhanyaHegde01)
 
 <br>
 <br>
@@ -208,7 +202,7 @@ Profile Link: [https://github.com/](https://github.com/amritigupta)
 <br>
 <!-- Repository Link: [https://github.com/VishrutAggarwal/Valkyries](https://github.com/VishrutAggarwal/Valkyries) -->
 
-* Demo Video Link: [Google Drive Link]()
+* Demo Video Link: [Google Drive Link](https://drive.google.com/file/d/100DKCSIOl7c0hYEcnUYQXL24A3rloRiB/view?usp=sharing)
 
 * Deployed Site: 
 
