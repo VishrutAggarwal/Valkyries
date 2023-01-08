@@ -1,7 +1,7 @@
-#header-component {
+/* #header-component {
     width: 100%;
     height: 7rem;
-    /* background-color: black; */
+    background-color: black;
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -20,4 +20,4 @@
 #header-component div img{
     width: 5rem;
     height: 5rem;
-}
+} */
