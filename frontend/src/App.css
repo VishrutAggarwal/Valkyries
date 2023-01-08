@@ -10,3 +10,12 @@
   font-size: 2rem;
   font-weight: bold;
 }
+
+.App {
+  background-color: #ffa9b5;
+}
+
+.full-page {
+  height: 100vh;
+  width: 100%;
+}
