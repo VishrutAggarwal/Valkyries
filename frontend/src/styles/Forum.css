@@ -1,0 +1,26 @@
+#forum-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#forum-page .information {
+    display: flex;
+    flex-direction: column;
+}
+
+#forum-page label {
+    margin: 2rem 0;
+}
+
+#forum-page input {
+    height: 40px;
+}
+
+#forum-page button {
+    margin: 2rem 0;
+    height: 4rem;
+    width: 14rem;
+    font-size: 1.25rem;
+}
