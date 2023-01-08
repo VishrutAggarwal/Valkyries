@@ -9,10 +9,12 @@ import Resources from './components/Resources';
 import Forum from './components/Forum';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Dashboard from './components/Dashboard';
+import Helpline from './components/Helpline';
 
 function App() {
   return (
     <div className="App">
+      <Header/>
       <Router>
         <Routes>
           <Route path = '/' element={<Landing/>}></Route>
@@ -20,11 +22,11 @@ function App() {
           <Route path = '/login' element={<Login/>}></Route>
           <Route path = '/forum' element={<Forum/>}></Route>
           <Route path = '/resources' element={<Resources/>}></Route>
+          <Route path = '/dashboard' element={<Dashboard/>}></Route>
+          <Route path = '/helpline' element={<Helpline/>}></Route>
         </Routes>
-        </Router>
-      <Header/>
-      <Landing/>
-      <Footer/>
+      </Router>
+      <Footer />
       {/* <Dashboard/> */}
     </div>
   );
